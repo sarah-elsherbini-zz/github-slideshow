@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+ALL UR BASE IS BELONG 2 US
 Use the left arrow to go back!
